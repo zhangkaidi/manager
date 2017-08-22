@@ -1,0 +1,30 @@
+{
+  "name": "manager",
+  "version": "1.0.0",
+  "description": "manager",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangkaidi/manager.git"
+  },
+  "author": "cady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangkaidi/manager/issues"
+  },
+  "homepage": "https://github.com/zhangkaidi/manager#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csslint": "^1.0.0",
+    "gulp-less": "^3.3.2",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-watch": "^4.3.11"
+  }
+}
